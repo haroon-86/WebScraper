@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WGuyLlyqbCtYBI54/VUS6OwciqPHt4CtwoLHIM+ZvhsfB99/5D435WAuT0kOw3hk7WEBHZpIpO4Yxmwp0wv7Ow==",
+  "success": true,
+  "projectFilePath": "/Users/haroonahmed28/RiderProjects/WebScraper/WebScraper/WebScraper.csproj",
+  "expectedPackageFiles": [
+    "/Users/haroonahmed28/.nuget/packages/htmlagilitypack/1.11.48/htmlagilitypack.1.11.48.nupkg.sha512"
+  ],
+  "logs": []
+}

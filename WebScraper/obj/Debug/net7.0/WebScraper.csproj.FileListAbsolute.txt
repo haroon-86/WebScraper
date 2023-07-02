@@ -1,0 +1,17 @@
+/Users/haroonahmed28/RiderProjects/WebScraper/WebScraper/bin/Debug/net7.0/WebScraper
+/Users/haroonahmed28/RiderProjects/WebScraper/WebScraper/bin/Debug/net7.0/WebScraper.deps.json
+/Users/haroonahmed28/RiderProjects/WebScraper/WebScraper/bin/Debug/net7.0/WebScraper.runtimeconfig.json
+/Users/haroonahmed28/RiderProjects/WebScraper/WebScraper/bin/Debug/net7.0/WebScraper.dll
+/Users/haroonahmed28/RiderProjects/WebScraper/WebScraper/bin/Debug/net7.0/WebScraper.pdb
+/Users/haroonahmed28/RiderProjects/WebScraper/WebScraper/bin/Debug/net7.0/HtmlAgilityPack.dll
+/Users/haroonahmed28/RiderProjects/WebScraper/WebScraper/obj/Debug/net7.0/WebScraper.csproj.AssemblyReference.cache
+/Users/haroonahmed28/RiderProjects/WebScraper/WebScraper/obj/Debug/net7.0/WebScraper.GeneratedMSBuildEditorConfig.editorconfig
+/Users/haroonahmed28/RiderProjects/WebScraper/WebScraper/obj/Debug/net7.0/WebScraper.AssemblyInfoInputs.cache
+/Users/haroonahmed28/RiderProjects/WebScraper/WebScraper/obj/Debug/net7.0/WebScraper.AssemblyInfo.cs
+/Users/haroonahmed28/RiderProjects/WebScraper/WebScraper/obj/Debug/net7.0/WebScraper.csproj.CoreCompileInputs.cache
+/Users/haroonahmed28/RiderProjects/WebScraper/WebScraper/obj/Debug/net7.0/WebScraper.csproj.CopyComplete
+/Users/haroonahmed28/RiderProjects/WebScraper/WebScraper/obj/Debug/net7.0/WebScraper.dll
+/Users/haroonahmed28/RiderProjects/WebScraper/WebScraper/obj/Debug/net7.0/refint/WebScraper.dll
+/Users/haroonahmed28/RiderProjects/WebScraper/WebScraper/obj/Debug/net7.0/WebScraper.pdb
+/Users/haroonahmed28/RiderProjects/WebScraper/WebScraper/obj/Debug/net7.0/WebScraper.genruntimeconfig.cache
+/Users/haroonahmed28/RiderProjects/WebScraper/WebScraper/obj/Debug/net7.0/ref/WebScraper.dll
